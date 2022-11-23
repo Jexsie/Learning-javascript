@@ -2,5 +2,5 @@
 
 ### About
 
-This project is part of my javascript journey. 
-It is guess game, you guess the number, if it's true, you've won else you've lost
+This reposaitory will contain all my javascriptlearning journey journey. 
+I am hoping to upload all the projects I will be working on untill I gain expertism
